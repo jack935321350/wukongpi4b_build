@@ -10,7 +10,7 @@
 
 ```bash
 apt-get -y install git
-git clone https://github.com/Timfu2019/wukongpi4b_build.git
+git clone https://github.com/jack935321350/wukongpi4b_build.git
 cd build
 ./compile.sh
 ```
