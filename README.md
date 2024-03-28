@@ -11,7 +11,7 @@
 ```bash
 apt-get -y install git
 git clone https://github.com/jack935321350/wukongpi4b_build.git
-cd build
+cd wukongpi4b_build
 ./compile.sh
 ```
 
